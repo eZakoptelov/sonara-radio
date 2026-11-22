@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SONARA</string>
+    <string name="playback_notification_channel">SONARA</string>
+</resources>
